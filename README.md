@@ -24,9 +24,25 @@ This repository contains my Python practice programs, assignments, coding exerci
 - While Loop
 - Break and Continue
 
+### Data Structures
+
+**Lists**
+- Creating and accessing lists
+- Positive and negative indexing
+- Updating list elements
+- Adding elements (`append()`, `insert()`)
+- Removing elements (`remove()`, `pop()`)
+- List slicing
+- Iterating through lists
+- Practical exercises:
+  - Cleaning city names using string methods
+  - Correcting spelling mistakes using `replace()`
+  - Extracting years from strings
+
 ### Assignments
 - Nested If-Else Assignments
 - While Loop Assignments
+- Python Lists Practice
 
 ## 🛠️ Tools & Technologies
 - Python
