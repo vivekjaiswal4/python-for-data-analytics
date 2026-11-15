@@ -39,6 +39,16 @@ This repository contains my Python practice programs, assignments, coding exerci
   - Correcting spelling mistakes using `replace()`
   - Extracting years from strings
 
+**Dictionaries**
+- Creating dictionaries
+- Accessing dictionary elements
+- Adding and updating elements
+- Removing elements using `pop()`
+- Dictionary methods (`keys()`, `values()`, `items()`, `get()`)
+- Looping through dictionaries
+- Nested dictionaries
+- Key-value mapping
+
 ### Assignments
 - Nested If-Else Assignments
 - While Loop Assignments
