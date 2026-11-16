@@ -58,7 +58,7 @@ This repository contains my Python practice programs, assignments, coding exerci
 - Tuple concatenation
 - Packing and unpacking
 
-  
+
 ### Assignments
 - Nested If-Else Assignments
 - While Loop Assignments
