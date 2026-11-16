@@ -49,6 +49,16 @@ This repository contains my Python practice programs, assignments, coding exerci
 - Nested dictionaries
 - Key-value mapping
 
+  
+**Tuples**
+- Creating tuples
+- Indexing and slicing
+- Looping through tuples
+- Finding tuple length using len()
+- Tuple concatenation
+- Packing and unpacking
+
+  
 ### Assignments
 - Nested If-Else Assignments
 - While Loop Assignments
