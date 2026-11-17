@@ -23,6 +23,13 @@ This repository contains my Python practice programs, assignments, coding exerci
 - For Loop
 - While Loop
 - Break and Continue
+- `range()` Function
+- Printing Even and Odd Numbers
+- Reverse Counting
+- Looping Through Lists Using Index
+- Generating Employee IDs
+- Creating Lists Using Loops
+- Nested For Loops
 
 ### Data Structures
 
@@ -49,15 +56,25 @@ This repository contains my Python practice programs, assignments, coding exerci
 - Nested dictionaries
 - Key-value mapping
 
-  
 **Tuples**
 - Creating tuples
 - Indexing and slicing
 - Looping through tuples
-- Finding tuple length using len()
+- Finding tuple length using `len()`
 - Tuple concatenation
 - Packing and unpacking
 
+**Sets**
+- Creating Sets
+- Removing Duplicate Values
+- Adding and Deleting Elements
+- Union
+- Intersection
+- Difference
+- Symmetric Difference
+- Extracting Unique Values
+- Finding Common Skills
+- Identifying Missing Skills
 
 ### Assignments
 - Nested If-Else Assignments
